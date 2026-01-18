@@ -5,9 +5,6 @@
       "jest",
       "nativewind/types"
     ],
-    "customConditions": [
-      "react-native-strict-api"
-    ]
   },
   "include": [
     "**/*.ts",
