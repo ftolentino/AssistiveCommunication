@@ -1,10 +1,11 @@
 {
   "extends": "@react-native/typescript-config",
   "compilerOptions": {
+    "jsx": "react-native",
     "types": [
       "jest",
       "nativewind/types"
-    ],
+    ]
   },
   "include": [
     "**/*.ts",
